@@ -62,12 +62,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Kshitizz04">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kshitizz04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Kshitizz04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Kshitizz04">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitizz04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kshitizz04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
       </a>
     </td>
   </tr>
